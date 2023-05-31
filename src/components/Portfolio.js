@@ -1,7 +1,6 @@
 import React from 'react'
 
 import Proyectos from './Proyectos'
-import ProyectoIndiv from './ProyectoIndiv'
 
 const Portfolio = () => {
     return (
